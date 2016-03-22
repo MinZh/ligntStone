@@ -1,2 +1,24 @@
-header {background-color:#14191e;height: 80px; }
-ul,li{font-size:12px;color: white;}
+header {
+    background-color:#14191e;
+    height: 65px;
+}
+img {
+    margin-left: 40px;
+    width: 150px;
+    height: 70px;
+}
+ ul{
+}
+ul li{
+    float:left;
+    font-size: large;
+    margin-top: 10px;
+    margin-left: auto;
+}
+ header a{
+     text-decoration: none;
+     color: white;
+ }
+#a1{
+    color: aqua;
+}
