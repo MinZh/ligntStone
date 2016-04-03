@@ -28,15 +28,43 @@ header{
 #a1{
     color: aqua;
 }
-div{
-    padding: inherit;
+
+.article{
+    border: 2px;
+    padding:20px 20px 20px 20px ;
+    margin-top:20px;
+    margin-left: 20px;
+    margin-right: 20px;
     background-color: white;
-    width:99%;
-    margin-left: auto;
-    margin-right: auto;
+}
+.secondbt{
+    color: silver;
 
 }
-.article1{
-    border: 2px;
-    padding-bottom: 25px;
+.auther{
+    color: silver;
+}
+.bpic{
+     width: 150px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: silver;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.imgg{
+    height: 90px;
+}
+table {
+    border-collapse: collapse;
+}
+
+.table1 td,th {
+    border: 1px solid gray;
+}
+.table2 td{
+    border-style: hidden;
+}
+.table2 tr{
+    height: 40px;
 }
